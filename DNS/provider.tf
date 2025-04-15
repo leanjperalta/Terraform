@@ -15,7 +15,7 @@ variable "tsig_key" {
 
 provider "dns" {
     update {
-        server         = "ns1.garrahan.gov.ar"
+        server         = "ns1.zone.gov.ar"
         key_name       = "tsig-key."
         key_algorithm  = "hmac-sha256"
         key_secret     = var.tsig_key
