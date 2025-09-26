@@ -1,0 +1,9 @@
+aws_region = "us-east-2"
+instance_type = "t2.micro"
+instance_count = 1
+ami_id = "ami-0ca4d5db4872d0c28"
+ebs_volume_size = 8
+key_name = "terra_test"
+vpc_id = "vpc-0070a211fcfb3e8b6"
+availability_zone = "us-east-2a"
+subnet_id = "subnet-0dd15bd9584529809"

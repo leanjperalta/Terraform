@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ebs_volume","Source":"./modules/ebs","Dir":"modules/ebs"},{"Key":"ec2_instance","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"vpc","Source":"./modules/vpc","Dir":""}]}
